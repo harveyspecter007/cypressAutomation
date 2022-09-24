@@ -1,2 +1,7 @@
 /cypress/videos/
 /node_modules/
+/reports/
+/.idea/vcs.xml
+/package-lock.json
+/.idea/modules.xml
+/.idea/cypressAutomation.iml
